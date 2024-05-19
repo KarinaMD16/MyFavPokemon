@@ -1,0 +1,11 @@
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\bin\Debug\net8.0\MyPoki.deps.json
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\bin\Debug\net8.0\MyPoki.dll
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\bin\Debug\net8.0\MyPoki.pdb
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\obj\Debug\net8.0\MyPoki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\obj\Debug\net8.0\MyPoki.AssemblyInfoInputs.cache
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\obj\Debug\net8.0\MyPoki.AssemblyInfo.cs
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\obj\Debug\net8.0\MyPoki.csproj.CoreCompileInputs.cache
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\obj\Debug\net8.0\MyPoki.dll
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\obj\Debug\net8.0\refint\MyPoki.dll
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\obj\Debug\net8.0\MyPoki.pdb
+C:\Users\Krina\Desktop\˚୨୧⋆｡˚ ⋆\progra 2\PokemonExam\MyPoki\obj\Debug\net8.0\ref\MyPoki.dll
